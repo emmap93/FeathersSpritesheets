@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c38211f23f0c274f9c12379ad27d2497:a4a49be2d37ff9a2c82c85416f1336ab:02917ea8ec58c130009a8401329f0171$ -->
+<TextureAtlas imagePath="SpriteSheetTextures.png">
+    <SubTexture name="Sprite_1" x="881" y="391" width="616" height="301" frameX="-192" frameY="-612" frameWidth="1080" frameHeight="1920"/>
+    <SubTexture name="Sprite_2" x="881" y="2" width="770" height="387" frameX="-175" frameY="-610" frameWidth="1080" frameHeight="1920"/>
+    <SubTexture name="Sprite_3" x="2" y="2" width="877" height="883" frameX="-111" frameY="-393" frameWidth="1080" frameHeight="1920"/>
+</TextureAtlas>
